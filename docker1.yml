@@ -1,0 +1,17 @@
+---
+version: '3.8'
+services:
+  mydb:
+    image: postgres
+    environment:
+      POSTRES_PASSWORD: admin
+      POSTGRES_USER: myuser
+      POSTGRES_DB: db
+  myadminer:
+    image: adminer
+    ports:
+      - 8081:8080
+    links:
+      - mydb:postgres
+...    
+
