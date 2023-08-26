@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1692942184,,"wq"
+|2,0,1693037310,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,230 +25,378 @@
 # Registers:
 
 # File marks:
-'0  9  1  ~/docker4.yml
-|4,48,9,1,1692942184,"~/docker4.yml"
-'1  22  26  ~/docker4.yml
-|4,49,22,26,1692942068,"~/docker4.yml"
-'2  22  26  ~/docker4.yml
-|4,50,22,26,1692942068,"~/docker4.yml"
-'3  23  2  ~/docker4.yml
-|4,51,23,2,1692941845,"~/docker4.yml"
-'4  20  2  ~/docker4.yml
-|4,52,20,2,1692941845,"~/docker4.yml"
-'5  23  2  ~/docker4.yml
-|4,53,23,2,1692941845,"~/docker4.yml"
-'6  20  2  ~/docker4.yml
-|4,54,20,2,1692941845,"~/docker4.yml"
-'7  6  9  ~/docker3.yml
-|4,55,6,9,1692940826,"~/docker3.yml"
-'8  19  0  ~/docker3.yml
-|4,56,19,0,1692940691,"~/docker3.yml"
-'9  19  0  ~/docker3.yml
-|4,57,19,0,1692940691,"~/docker3.yml"
+'0  6  31  ~/cmd
+|4,48,6,31,1693037310,"~/cmd"
+'1  8  8  ~/entry2
+|4,49,8,8,1693034889,"~/entry2"
+'2  8  8  ~/entry2
+|4,50,8,8,1693034696,"~/entry2"
+'3  6  19  ~/entry2
+|4,51,6,19,1693034497,"~/entry2"
+'4  6  19  ~/entry2
+|4,52,6,19,1693034497,"~/entry2"
+'5  6  19  ~/entry2
+|4,53,6,19,1693034497,"~/entry2"
+'6  6  19  ~/entry2
+|4,54,6,19,1693034497,"~/entry2"
+'7  6  40  ~/entry2
+|4,55,6,40,1693034342,"~/entry2"
+'8  6  40  ~/entry2
+|4,56,6,40,1693034342,"~/entry2"
+'9  6  40  ~/entry2
+|4,57,6,40,1693034342,"~/entry2"
 
 # Jumplist (newest first):
--'  9  1  ~/docker4.yml
-|4,39,9,1,1692942184,"~/docker4.yml"
--'  22  26  ~/docker4.yml
-|4,39,22,26,1692942134,"~/docker4.yml"
--'  22  26  ~/docker4.yml
-|4,39,22,26,1692942068,"~/docker4.yml"
--'  23  2  ~/docker4.yml
-|4,39,23,2,1692942002,"~/docker4.yml"
--'  23  2  ~/docker4.yml
-|4,39,23,2,1692942002,"~/docker4.yml"
--'  20  2  ~/docker4.yml
-|4,39,20,2,1692941845,"~/docker4.yml"
--'  20  2  ~/docker4.yml
-|4,39,20,2,1692941845,"~/docker4.yml"
--'  1  0  ~/docker4.yml
-|4,39,1,0,1692941609,"~/docker4.yml"
--'  1  0  ~/docker4.yml
-|4,39,1,0,1692941609,"~/docker4.yml"
--'  1  0  ~/docker4.yml
-|4,39,1,0,1692941609,"~/docker4.yml"
--'  6  9  ~/docker3.yml
-|4,39,6,9,1692940826,"~/docker3.yml"
--'  6  9  ~/docker3.yml
-|4,39,6,9,1692940826,"~/docker3.yml"
--'  6  9  ~/docker3.yml
-|4,39,6,9,1692940826,"~/docker3.yml"
--'  6  9  ~/docker3.yml
-|4,39,6,9,1692940826,"~/docker3.yml"
--'  6  9  ~/docker3.yml
-|4,39,6,9,1692940826,"~/docker3.yml"
--'  6  9  ~/docker3.yml
-|4,39,6,9,1692940826,"~/docker3.yml"
--'  6  9  ~/docker3.yml
-|4,39,6,9,1692940826,"~/docker3.yml"
--'  6  9  ~/docker3.yml
-|4,39,6,9,1692940826,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940747,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940747,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940747,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940747,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940747,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940747,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940747,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940747,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940691,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940691,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940691,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940691,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940691,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940691,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940691,"~/docker3.yml"
--'  19  0  ~/docker3.yml
-|4,39,19,0,1692940691,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  1  0  ~/docker3.yml
-|4,39,1,0,1692940459,"~/docker3.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  19  17  ~/ci-cd.yml
-|4,39,19,17,1692939982,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
--'  20  0  ~/ci-cd.yml
-|4,39,20,0,1692939954,"~/ci-cd.yml"
+-'  6  31  ~/cmd
+|4,39,6,31,1693037310,"~/cmd"
+-'  1  0  ~/cmd
+|4,39,1,0,1693037245,"~/cmd"
+-'  8  8  ~/entry2
+|4,39,8,8,1693034889,"~/entry2"
+-'  8  8  ~/entry2
+|4,39,8,8,1693034889,"~/entry2"
+-'  8  8  ~/entry2
+|4,39,8,8,1693034696,"~/entry2"
+-'  8  8  ~/entry2
+|4,39,8,8,1693034696,"~/entry2"
+-'  6  19  ~/entry2
+|4,39,6,19,1693034681,"~/entry2"
+-'  6  19  ~/entry2
+|4,39,6,19,1693034681,"~/entry2"
+-'  6  19  ~/entry2
+|4,39,6,19,1693034681,"~/entry2"
+-'  6  19  ~/entry2
+|4,39,6,19,1693034681,"~/entry2"
+-'  6  19  ~/entry2
+|4,39,6,19,1693034497,"~/entry2"
+-'  6  19  ~/entry2
+|4,39,6,19,1693034497,"~/entry2"
+-'  6  40  ~/entry2
+|4,39,6,40,1693034342,"~/entry2"
+-'  6  40  ~/entry2
+|4,39,6,40,1693034342,"~/entry2"
+-'  1  0  ~/entry2
+|4,39,1,0,1693034270,"~/entry2"
+-'  1  0  ~/entry2
+|4,39,1,0,1693034270,"~/entry2"
+-'  1  0  ~/entry2
+|4,39,1,0,1693034270,"~/entry2"
+-'  1  0  ~/entry2
+|4,39,1,0,1693034270,"~/entry2"
+-'  1  0  ~/entry2
+|4,39,1,0,1693034270,"~/entry2"
+-'  1  0  ~/entry2
+|4,39,1,0,1693034270,"~/entry2"
+-'  1  0  ~/entry2
+|4,39,1,0,1693034270,"~/entry2"
+-'  1  0  ~/entry2
+|4,39,1,0,1693034270,"~/entry2"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  8  21  ~/entrypoint
+|4,39,8,21,1693033566,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693033540,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
+-'  4  36  ~/entrypoint
+|4,39,4,36,1693032905,"~/entrypoint"
 
 # History of marks within files (newest to oldest):
+
+> ~/cmd
+	*	1693037308	0
+	"	6	31
+	^	6	32
+	.	6	29
+	+	6	29
+
+> ~/entry2
+	*	1693034888	0
+	"	8	8
+	^	8	9
+	.	8	8
+	+	6	39
+	+	8	8
+
+> ~/entrypoint
+	*	1693033564	0
+	"	8	21
+	^	8	22
+	.	8	21
+	+	6	2
+	+	4	37
+	+	8	38
+	+	4	29
+	+	8	21
+
+> ~/expose
+	*	1693029706	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	2	8
+
+> ~/jenkinsfile
+	*	1693028389	0
+	"	5	31
+	^	5	32
+	.	5	31
+	+	5	31
+
+> ~/volume
+	*	1693027063	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	2	10
+	+	2	19
+	+	3	11
+	+	1	10
+
+> ~/jenkins
+	*	1692982071	0
+	"	5	61
+	^	5	62
+	.	5	61
+	+	5	56
+	+	3	9
+	+	5	61
+
+> ~/test
+	*	1692981078	0
+	"	3	11
+	^	3	12
+	.	3	12
+	+	3	15
+	+	4	11
+	+	3	12
+
+> ~/sc.sh
+	*	1692980740	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	5	3
+	+	1	0
+
+> ~/script.sh
+	*	1692980624	0
+	"	7	0
+	^	7	0
+	.	5	0
+	+	1	14
+	+	6	0
+	+	4	17
+	+	6	3
+	+	5	0
+	+	3	22
+	+	4	2
+	+	5	0
+	+	1	14
+	+	5	0
+
+> ~/filecopy
+	*	1692980053	0
+	"	7	15
+	^	7	16
+	.	8	0
+	+	1	11
+	+	7	16
+	+	3	18
+	+	8	0
+
+> ~/copy
+	*	1692980023	0
+	"	6	0
+	^	6	0
+	.	5	19
+	+	7	15
+	+	1	11
+	+	3	16
+	+	5	19
+
+> ~/installdocker
+	*	1692978001	0
+	"	7	27
+	^	7	28
+	.	7	27
+	+	11	24
+	+	7	27
+
+> ~/dockerfile
+	*	1692976739	0
+	"	11	26
+	^	11	27
+	.	11	26
+	+	3	19
+	+	9	26
+	+	1	10
+	+	11	26
+
+> /var/lib/docker/volumes/vol/_data/tomcat-users.xml
+	*	1692952985	0
+	"	2	39
+	^	2	40
+	.	2	0
+	+	3	13
+	+	1	12
+	+	2	0
+
+> /var/lib/docker/volumes/v1/_data/tomcat-users.xml
+	*	1692951597	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	1	14
+	+	2	65
+	+	3	0
 
 > ~/docker4.yml
 	*	1692942182	0

@@ -1,0 +1,12 @@
+FROM ubuntu
+
+MAINTAINER siddhesh
+
+RUN apt-get update
+
+RUN apt-get install -y curl*
+
+RUN curl -fsSL https://get.docker.com -o install-docker.sh
+
+RUN sh install-docker.sh
+
