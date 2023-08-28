@@ -1,0 +1,18 @@
+---
+version: '3.8'
+services:
+  myadminer:
+    image: adminer
+    ports:
+      - 8989:8080
+  mypostgres:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: admin
+      POSTGRES_USER: dfg
+      POSTGRES_DB: mydb
+networks:
+   default:
+     external:
+        name: siddhesh
+         

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1693037310,,"wq"
+|2,0,1693239749,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,232 +23,323 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	 
+|3,1,36,0,1,0,1693237863," "
 
 # File marks:
-'0  6  31  ~/cmd
-|4,48,6,31,1693037310,"~/cmd"
-'1  8  8  ~/entry2
-|4,49,8,8,1693034889,"~/entry2"
-'2  8  8  ~/entry2
-|4,50,8,8,1693034696,"~/entry2"
-'3  6  19  ~/entry2
-|4,51,6,19,1693034497,"~/entry2"
-'4  6  19  ~/entry2
-|4,52,6,19,1693034497,"~/entry2"
-'5  6  19  ~/entry2
-|4,53,6,19,1693034497,"~/entry2"
-'6  6  19  ~/entry2
-|4,54,6,19,1693034497,"~/entry2"
-'7  6  40  ~/entry2
-|4,55,6,40,1693034342,"~/entry2"
-'8  6  40  ~/entry2
-|4,56,6,40,1693034342,"~/entry2"
-'9  6  40  ~/entry2
-|4,57,6,40,1693034342,"~/entry2"
+'0  15  6  ~/docker-compose3.yml
+|4,48,15,6,1693239749,"~/docker-compose3.yml"
+'1  17  1  ~/docker-compose3.yml
+|4,49,17,1,1693239704,"~/docker-compose3.yml"
+'2  17  1  ~/docker-compose3.yml
+|4,50,17,1,1693239704,"~/docker-compose3.yml"
+'3  19  4  ~/docker-compose2.yml
+|4,51,19,4,1693238821,"~/docker-compose2.yml"
+'4  25  8  ~/docker-compose2.yml
+|4,52,25,8,1693238732,"~/docker-compose2.yml"
+'5  25  8  ~/docker-compose2.yml
+|4,53,25,8,1693238732,"~/docker-compose2.yml"
+'6  17  14  ~/docker-compose1.yml
+|4,54,17,14,1693238260,"~/docker-compose1.yml"
+'7  17  14  ~/docker-compose1.yml
+|4,55,17,14,1693237870,"~/docker-compose1.yml"
+'8  17  12  ~/docker-compose1.yml
+|4,56,17,12,1693237787,"~/docker-compose1.yml"
+'9  17  12  ~/docker-compose1.yml
+|4,57,17,12,1693237787,"~/docker-compose1.yml"
 
 # Jumplist (newest first):
--'  6  31  ~/cmd
-|4,39,6,31,1693037310,"~/cmd"
--'  1  0  ~/cmd
-|4,39,1,0,1693037245,"~/cmd"
--'  8  8  ~/entry2
-|4,39,8,8,1693034889,"~/entry2"
--'  8  8  ~/entry2
-|4,39,8,8,1693034889,"~/entry2"
--'  8  8  ~/entry2
-|4,39,8,8,1693034696,"~/entry2"
--'  8  8  ~/entry2
-|4,39,8,8,1693034696,"~/entry2"
--'  6  19  ~/entry2
-|4,39,6,19,1693034681,"~/entry2"
--'  6  19  ~/entry2
-|4,39,6,19,1693034681,"~/entry2"
--'  6  19  ~/entry2
-|4,39,6,19,1693034681,"~/entry2"
--'  6  19  ~/entry2
-|4,39,6,19,1693034681,"~/entry2"
--'  6  19  ~/entry2
-|4,39,6,19,1693034497,"~/entry2"
--'  6  19  ~/entry2
-|4,39,6,19,1693034497,"~/entry2"
--'  6  40  ~/entry2
-|4,39,6,40,1693034342,"~/entry2"
--'  6  40  ~/entry2
-|4,39,6,40,1693034342,"~/entry2"
--'  1  0  ~/entry2
-|4,39,1,0,1693034270,"~/entry2"
--'  1  0  ~/entry2
-|4,39,1,0,1693034270,"~/entry2"
--'  1  0  ~/entry2
-|4,39,1,0,1693034270,"~/entry2"
--'  1  0  ~/entry2
-|4,39,1,0,1693034270,"~/entry2"
--'  1  0  ~/entry2
-|4,39,1,0,1693034270,"~/entry2"
--'  1  0  ~/entry2
-|4,39,1,0,1693034270,"~/entry2"
--'  1  0  ~/entry2
-|4,39,1,0,1693034270,"~/entry2"
--'  1  0  ~/entry2
-|4,39,1,0,1693034270,"~/entry2"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  8  21  ~/entrypoint
-|4,39,8,21,1693033566,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693033540,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
--'  4  36  ~/entrypoint
-|4,39,4,36,1693032905,"~/entrypoint"
+-'  15  6  ~/docker-compose3.yml
+|4,39,15,6,1693239749,"~/docker-compose3.yml"
+-'  17  1  ~/docker-compose3.yml
+|4,39,17,1,1693239723,"~/docker-compose3.yml"
+-'  17  1  ~/docker-compose3.yml
+|4,39,17,1,1693239704,"~/docker-compose3.yml"
+-'  1  0  ~/docker-compose3.yml
+|4,39,1,0,1693239422,"~/docker-compose3.yml"
+-'  1  0  ~/docker-compose3.yml
+|4,39,1,0,1693239422,"~/docker-compose3.yml"
+-'  19  4  ~/docker-compose2.yml
+|4,39,19,4,1693238821,"~/docker-compose2.yml"
+-'  19  4  ~/docker-compose2.yml
+|4,39,19,4,1693238821,"~/docker-compose2.yml"
+-'  19  4  ~/docker-compose2.yml
+|4,39,19,4,1693238821,"~/docker-compose2.yml"
+-'  19  4  ~/docker-compose2.yml
+|4,39,19,4,1693238821,"~/docker-compose2.yml"
+-'  25  8  ~/docker-compose2.yml
+|4,39,25,8,1693238772,"~/docker-compose2.yml"
+-'  25  8  ~/docker-compose2.yml
+|4,39,25,8,1693238772,"~/docker-compose2.yml"
+-'  25  8  ~/docker-compose2.yml
+|4,39,25,8,1693238772,"~/docker-compose2.yml"
+-'  25  8  ~/docker-compose2.yml
+|4,39,25,8,1693238772,"~/docker-compose2.yml"
+-'  25  8  ~/docker-compose2.yml
+|4,39,25,8,1693238732,"~/docker-compose2.yml"
+-'  25  8  ~/docker-compose2.yml
+|4,39,25,8,1693238732,"~/docker-compose2.yml"
+-'  25  8  ~/docker-compose2.yml
+|4,39,25,8,1693238732,"~/docker-compose2.yml"
+-'  25  8  ~/docker-compose2.yml
+|4,39,25,8,1693238732,"~/docker-compose2.yml"
+-'  1  0  ~/docker-compose2.yml
+|4,39,1,0,1693238442,"~/docker-compose2.yml"
+-'  1  0  ~/docker-compose2.yml
+|4,39,1,0,1693238442,"~/docker-compose2.yml"
+-'  1  0  ~/docker-compose2.yml
+|4,39,1,0,1693238442,"~/docker-compose2.yml"
+-'  1  0  ~/docker-compose2.yml
+|4,39,1,0,1693238442,"~/docker-compose2.yml"
+-'  1  0  ~/docker-compose2.yml
+|4,39,1,0,1693238442,"~/docker-compose2.yml"
+-'  1  0  ~/docker-compose2.yml
+|4,39,1,0,1693238442,"~/docker-compose2.yml"
+-'  1  0  ~/docker-compose2.yml
+|4,39,1,0,1693238442,"~/docker-compose2.yml"
+-'  1  0  ~/docker-compose2.yml
+|4,39,1,0,1693238442,"~/docker-compose2.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693238260,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  14  ~/docker-compose1.yml
+|4,39,17,14,1693237870,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  17  12  ~/docker-compose1.yml
+|4,39,17,12,1693237787,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
+-'  1  0  ~/docker-compose1.yml
+|4,39,1,0,1693237529,"~/docker-compose1.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/docker-compose3.yml
+	*	1693239747	0
+	"	15	6
+	^	15	7
+	.	15	6
+	+	2	14
+	+	16	0
+	+	13	13
+	+	8	12
+	+	9	9
+	+	14	12
+	+	15	23
+	+	18	1
+	+	17	1
+	+	9	0
+	+	15	6
+
+> ~/docker-compose2.yml
+	*	1693238820	0
+	"	19	4
+	^	19	5
+	.	9	0
+	+	2	14
+	+	8	13
+	+	10	11
+	+	14	13
+	+	16	13
+	+	17	16
+	+	26	0
+	+	25	8
+	+	1	1
+	+	7	0
+	+	9	0
+
+> ~/docker-compose1.yml
+	*	1693238259	0
+	"	17	14
+	^	17	15
+	.	17	14
+	+	2	14
+	+	8	13
+	+	18	6
+	+	11	30
+	+	14	9
+	+	17	14
+
+> ~/docker-compose.yml
+	*	1693237119	0
+	"	7	14
+	^	7	15
+	.	7	14
+	+	2	14
+	+	4	73
+	+	8	2
+	+	4	58
+	+	7	14
+
+> ~/dockerfile
+	*	1693236911	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	3	19
+	+	4	70
+	+	1	10
+	+	4	98
+	+	5	0
+	+	1	9
+
+> ~/dockerfile1
+	*	1693236599	0
+	"	1	0
+
+> ~/docker1.yml
+	*	1693236586	0
+	"	13	11
+	^	13	12
+	.	13	11
+	+	2	14
+	+	17	0
+	+	8	9
+	+	7	6
+	+	10	12
+	+	13	15
+	+	16	0
+	+	15	13
+	+	13	11
 
 > ~/cmd
 	*	1693037308	0
@@ -370,16 +461,6 @@
 	+	11	24
 	+	7	27
 
-> ~/dockerfile
-	*	1692976739	0
-	"	11	26
-	^	11	27
-	.	11	26
-	+	3	19
-	+	9	26
-	+	1	10
-	+	11	26
-
 > /var/lib/docker/volumes/vol/_data/tomcat-users.xml
 	*	1692952985	0
 	"	2	39
@@ -452,27 +533,3 @@
 	+	20	0
 	+	13	18
 	+	19	18
-
-> ~/docker1.yml
-	*	1692939367	0
-	"	13	11
-	^	13	12
-	.	13	11
-	+	2	14
-	+	17	0
-	+	8	9
-	+	7	6
-	+	10	12
-	+	13	15
-	+	16	0
-	+	15	13
-	+	13	11
-
-> ~/docker-compose.yml
-	*	1692938277	0
-	"	15	2
-	^	15	3
-	.	15	2
-	+	2	14
-	+	8	2
-	+	15	2

@@ -584,3 +584,54 @@ docker run --name n1 -d -P myng
 docker container ls
 docker system prune -af
 docker rm -f $(docker ps -aq)
+ls
+vim cmd
+docker build -f cmd -t my .
+docker run --name -u1 -it my
+docker run --name u1 -it my
+docker container ls
+docker rm -f $(docker ps -aq)
+docker run --name u1 -it my
+docker container ls
+docker run --name u2 -it my bash
+docker container ls
+docker run --name u3 -it my date
+docker container ls
+docker ps -aq
+docker run --name u3 -it my ls -la
+docker run --name u4 -it my ls -la
+docker container ls
+docker ps -aq
+docker system prune -af
+docker rm -f $(docker ps -aq)
+docker ps -aq
+docker rm -f $(docker ps -af)
+docker rm -f $(docker ps -aq)
+docker container ls
+docker images
+docker system prune -af
+git ststaus
+git init
+git status
+git add .
+git status
+git commit -m 'dockerfile'
+git pull
+git push
+docker login
+Siddhesh@25
+docker login
+docker build -t potdarsiddhesh/nginx32 .
+docker images
+docker push potdarsiddhesh/nginx32 
+docker pull
+docker pull potdarsiddhesh/sidd
+docker images
+ls
+vim dockerfile1
+vim dockerfile
+docker build -f dockerfile -t myubuntu .
+docker build -f dockerfile -t  potdarsiddhesh/ngninx33 .
+docker images
+docker push potdarsiddhesh/ngninx33
+docker logout
